@@ -8,7 +8,7 @@ A simple React Native app that fetches and displays comments with search, pagina
 
 ### 1. Clone the repository
 ```bash
-git clone <https://github.com/purniiiima/CommentsApp.git>
+git clone https://github.com/purniiiima/CommentsApp.git
 cd CommentsApp
 ```
 
