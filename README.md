@@ -34,12 +34,13 @@ npx react-native run-android
 npx react-native run-ios
 ```
 
-## Screenshots / Recording
+## Screenshots
 
-  - `/screenshots/list.png`
-  - `/screenshots/detail.png`
-  - `/screenshots/search.png`
-
+<p>
+  <img src="./screenshots/list.png" width="160" />&nbsp;
+  <img src="./screenshots/detail.png" width="160" />&nbsp;
+  <img src="./screenshots/search.png" width="160" />
+</p>
 
 ## Assumptions / Trade-offs
 - API returns stable comment structure (`id`, `name`, `email`, `body`).
@@ -59,10 +60,9 @@ npx react-native run-ios
 ## Tech Stack
 - React Native (CLI)
 - React Navigation
--
- JavaScript (ES6+)
- Custom Hooks
- FlatList API 
+- JavaScript (ES6+)
+- Custom Hooks
+- FlatList API 
  
 
-fffd Author: Purnima Baroi
+Author: Purnima Baroi
